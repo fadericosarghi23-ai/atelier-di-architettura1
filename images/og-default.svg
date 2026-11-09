@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <!-- [[DA COMPILARE: immagine Open Graph 1200x630 del cliente]] -->
+  <rect width="1200" height="630" fill="#e7e0d7"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#b7ab9c" stroke-width="4" stroke-dasharray="20 16"/>
+  <g fill="#8a7e6f" font-family="ui-monospace,Menlo,Consolas,monospace" text-anchor="middle">
+    <text x="600" y="300" font-size="42" font-weight="600">SEGNAPOSTO OPEN GRAPH · DA SOSTITUIRE</text>
+    <text x="600" y="360" font-size="30">1200×630</text>
+  </g>
+</svg>

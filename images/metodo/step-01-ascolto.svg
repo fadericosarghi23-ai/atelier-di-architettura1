@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="1067" height="1600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ascolto — primo incontro">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c2620"/>
+      <stop offset="1" stop-color="#17130f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg1)"/>
+  <g fill="none" stroke="#e4d7c3" stroke-opacity=".5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- pendant lamp -->
+    <line x1="200" y1="70" x2="200" y2="150"/>
+    <path d="M182 150 q18 26 36 0 z" fill="#e4572e" fill-opacity=".85" stroke="none"/>
+    <!-- table -->
+    <ellipse cx="200" cy="360" rx="120" ry="26"/>
+    <path d="M96 362 v34 M304 362 v34 M110 388 q90 26 180 0"/>
+    <!-- two chairs -->
+    <path d="M118 330 v-70 q0 -14 14 -14 h20 q14 0 14 14 v70"/>
+    <path d="M234 330 v-70 q0 -14 14 -14 h20 q14 0 14 14 v70"/>
+  </g>
+  <!-- speech marks (terracotta) -->
+  <g fill="#e4572e">
+    <path d="M150 210 q0 -22 22 -26 v8 q-12 3 -12 14 h12 v20 h-22 z"/>
+    <path d="M230 236 q0 22 -22 26 v-8 q12 -3 12 -14 h-12 v-20 h22 z" fill-opacity=".7"/>
+  </g>
+  <rect x="16" y="16" width="368" height="568" fill="none" stroke="#e4d7c3" stroke-opacity=".14"/>
+</svg>
