@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# [[DA COMPILARE: aggiungere la riga Sitemap con il dominio reale del cliente]]
-# Sitemap: https://www.dominio-cliente.it/sitemap-index.xml

@@ -1,6 +1,4 @@
+# Sito statico: nessuna build, si pubblica la cartella cosi' com'e'.
 [build]
-  command = "npm run build"
-  publish = "dist"
-
-[build.environment]
-  NODE_VERSION = "20"
+  publish = "."
+  command = "echo 'sito statico, nessuna build'"
